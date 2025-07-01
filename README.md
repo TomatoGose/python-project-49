@@ -23,4 +23,4 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=TomatoGose_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=TomatoGose_python-project-49)
 
 ### asciinema:
-https://asciinema.org/a/dWy0gLurvNcn6oEqJxW55DFFX
+https://asciinema.org/a/HjCp6vG75MXdn83iOwJJ3mbXT
